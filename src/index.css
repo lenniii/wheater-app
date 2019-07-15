@@ -1,0 +1,31 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #2196f3;
+}
+
+.dark-primary-color {
+  background: #1976d2;
+}
+.default-primary-color {
+  background: #2196f3;
+}
+.light-primary-color {
+  background: #bbdefb;
+}
+.text-primary-color {
+  color: #ffffff;
+}
+.accent-color {
+  background: #448aff;
+}
+.primary-text-color {
+  color: #212121;
+}
+.secondary-text-color {
+  color: #757575;
+}
+.divider-color {
+  border-color: #bdbdbd;
+}
